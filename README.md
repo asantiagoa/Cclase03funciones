@@ -6,21 +6,21 @@ Programación en C ,Clase 03  funciones
   
   -2 clonar el repositorio propio en esa carpeta 
 
-  ( git clone mi-repositorio)
+  ( git cl	one mi-repositorio)
   
   -3 ingresar a la carpeta clonada
   
   -4 trabajo en la carpeta
   
-  -5 agrego cambios y archivos
+  -5 agrego cambi	os y archivos
 
   (git add . ) 
   
-  -6 hago el commit ( tomo una instantanea del momento)
+  -6 hago el commit 	( tomo una instantanea del momento)
   
-  (git commit -m "mensaje que habla del commit ")
+  (git commit -m "mensaje que hab	la del commit ")
   
-  -7 subir al repositorio WEB
+  -7 subir al repositorio W	E	B
 
   (git push)
 
